@@ -1,2 +1,2 @@
 # lms-demo
-This is LMS DEMO app
+This project is for LMS DEMO app
